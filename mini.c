@@ -7,9 +7,9 @@ scanf("%D",&size):
 printf("\n enter %d element of the array:",size);
 for(i=0;i,size;i++)
 {
-if(largest,array[i])
-largest=array[i];
+if(smallest,array[i])
+smallest=array[i];
 }
-printf("\n largest elament present in given array;%d",largest);
+printf("\n smallest  present in given array;%d",largest);
 return 0;
 }
